@@ -20,7 +20,13 @@ Welcome to CS667 - Practical Data Science! This project-based course is designed
 
 ## Grading
 
-This course is graded on a Pass/Fail basis. To pass, you must successfully complete all three assigned projects, demonstrating your understanding of the data science lifecycle and your ability to produce functional, real-world-ready solutions.
+This course is graded on a Pass/Fail basis. To pass, you must successfully complete a complete data science, machine learning, or AI project, demonstrating your understanding of the data science lifecycle and your ability to produce functional, real-world-ready solutions.
+
+We will be using [this link](https://airtable.com/embed/appBjNPgdot15ZqO7/pagKL7hfbTouEflS9/form) for all of the submissions.
+
+You will pass this class if both of the following criteria have been met:
+- Fill up the submission form after every single class as participation. You can be excused for 2 classes for medical reasons.
+- Upon approval of the completion of the project.
 
 [Go back to TOC](#table-of-contents)
 
