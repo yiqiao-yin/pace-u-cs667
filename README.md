@@ -26,7 +26,7 @@ We will be using [this link](https://airtable.com/embed/appBjNPgdot15ZqO7/pagKL7
 
 You will pass this class if both of the following criteria have been met:
 - Fill up the submission form after every single class as participation. You can be excused for 2 classes for medical reasons.
-- Upon approval of the completion of the project.
+- Upon approval of the completion of the project. For details of capstone project, please see [here](../pace-u-cs667/capstone/README.md)
 
 [Go back to TOC](#table-of-contents)
 
