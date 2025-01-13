@@ -3,15 +3,12 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Grading](#grading)
----
 
 ## Introduction
 
 Welcome to CS667 - Practical Data Science! This project-based course is designed to guide you through the full lifecycle of a data science project, from ideation to production. You will learn how to formulate a problem, collect and preprocess data, build and validate models, and deploy your solutions into real-world environments. By the end of the course, you will have practical experience in handling data science challenges and delivering deployable solutions.
 
 [Go back to TOC](#table-of-contents)
-
----
 
 ## Grading
 
