@@ -6,17 +6,27 @@
      - [Approach to Scoring Credibility](#approach-to-scoring-credibility)
      - [Deliverable](#deliverable)
      - [Deliverable Deadline Breakdown](#deliverable-deadline-breakdown)
-       - [February 15th: Draft of the Python Function](#february-15th-draft-of-the-python-function)
-       - [March 15th: Detailed Technique Report](#march-15th-detailed-technique-report)
-       - [April 15th: Implementation into Live Applications](#april-15th-implementation-into-live-applications)
+       - [February 4th: Draft of the Python Function](#february-4th-draft-of-the-python-function)
+       - [February 18th: Detailed Technique Report](#february-18th-detailed-technique-report)
+       - [February 25th: Implementation into Live Applications](#february-25th-implementation-into-live-applications)
    - [Project 2: TinyTroupe for Simulation](#project-2-tinytroupe-for-simulation)
      - [Concept Overview](#concept-overview-1)
      - [Approach to Simulating Feedback](#approach-to-simulating-feedback)
      - [Deliverable](#deliverable-1)
      - [Deliverable Deadline Breakdown](#deliverable-deadline-breakdown-1)
-       - [February 15th: Draft of the App](#february-15th-draft-of-the-app)
-       - [March 15th: Beta Version and Technical Report](#march-15th-beta-version-and-technical-report)
-       - [April 15th: Final Delivery of Container-Ready App](#april-15th-final-delivery-of-container-ready-app)
+       - [March 4th: Draft of the App](#march-4th-draft-of-the-app)
+       - [March 18th: Beta Version and Technical Report](#march-18th-beta-version-and-technical-report)
+       - [March 25th: Final Delivery of Container-Ready App](#march-25th-final-delivery-of-container-ready-app)
+   - [Project 3: Ystar* Coaching Platform](#project-3-ystar-coaching-platform)
+     - [Concept Overview](#concept-overview-2)
+     - [Skills and Roles Needed](#skills-and-roles-needed)
+     - [Deliverable](#deliverable-2)
+     - [Deliverable Deadline Breakdown](#deliverable-deadline-breakdown-2)
+   - [Project 4: In House Custom App](#project-4-in-house-custom-app)
+     - [Concept Overview](#concept-overview-3)
+     - [Skills and Roles Needed](#skills-and-roles-needed-1)
+     - [Deliverable](#deliverable-3)
+     - [Deliverable Deadline Breakdown](#deliverable-deadline-breakdown-3)
 
 # Capstone Projects
 
@@ -24,7 +34,7 @@ Please see the following projects.
 
 ## Project 1: Credibility Score for Articles/Sources/References
 
-![graph](../capstone/pics/12_capstone_01.png)
+![graph](./pics/12_capstone_01.png)
 
 ### Concept Overview
 [Go back to TOC](#table-of-contents)
@@ -66,7 +76,7 @@ The deliverable includes the implementation of a feature within the chatbot to d
 ### Deliverable Deadline Breakdown
 [Go back to TOC](#table-of-contents)
 
-#### February 15th: Draft of the Python Function
+#### February 4th: Draft of the Python Function
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Develop a preliminary version of the Python function that evaluates the URL of each reference.
@@ -80,7 +90,7 @@ The deliverable includes the implementation of a feature within the chatbot to d
     ```
   - Initial testing to validate input/output handling.
 
-#### March 15th: Detailed Technique Report
+#### February 18th: Detailed Technique Report
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Provide an in-depth analysis and report on the algorithmic approach and scientific research supporting the credibility scoring.
@@ -91,7 +101,7 @@ The deliverable includes the implementation of a feature within the chatbot to d
     - Justification of chosen methodologies, including both ML-based and rule-based approaches if applicable.
   - Documentation to guide future iterations and refinements.
 
-#### April 15th: Implementation into Live Applications
+#### February 25th: Implementation into Live Applications
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Integrate the finalized Python function into live applications and ensure seamless operation with the chatbot.
@@ -100,11 +110,11 @@ The deliverable includes the implementation of a feature within the chatbot to d
   - Testing and validation to ensure correct functionality and user interaction.
   - Integration support using a provided application template to streamline the process.
 
----
+
 
 ## Project 2: TinyTroupe for Simulation
 
-![graph](../capstone/pics/12_capstone_02.png)
+![graph](./pics/12_capstone_02.png)
 
 ### Concept Overview
 [Go back to TOC](#table-of-contents)
@@ -135,7 +145,7 @@ The app will include:
 ### Deliverable Deadline Breakdown
 [Go back to TOC](#table-of-contents)
 
-#### February 15th: Draft of the App
+#### March 4th: Draft of the App
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Develop an initial draft of the app showcasing the basic structure and persona-based feedback generation.
@@ -144,7 +154,7 @@ The app will include:
   - Initial persona simulation results.
   - Feedback from the instructor for refinement.
 
-#### March 15th: Beta Version and Technical Report
+#### March 18th: Beta Version and Technical Report
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Complete the bulk of the app development and submit a technical report.
@@ -156,7 +166,7 @@ The app will include:
     - Use cases and examples.
   - Feedback from a second round of instructor review.
 
-#### April 15th: Final Delivery of Container-Ready App
+#### March 25th: Final Delivery of Container-Ready App
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Deliver a fully functional app ready for deployment.
@@ -166,6 +176,121 @@ The app will include:
   - Integration and deployment documentation.
   - End-to-end testing and validation of app functionality.
 
----
-
 By implementing this simulation app, the project demonstrates how AI can streamline feature feedback collection, reducing costs and accelerating the go-to-market strategy. The result is a scalable, efficient solution for user feedback analysis.
+
+## Project 3: Ystar* Coaching Platform
+
+### Concept Overview
+[Go back to TOC](#table-of-contents)
+
+Ystar* aims to build an AI-powered coaching platform tailored for first-time managers in culturally complex environments like Japan and South Korea. This project focuses on developing real-time chat coaching features using generative AI to deliver personalized and context-aware guidance. This platform provides a customized coaching service by utilizing user-specific information (e.g., company size, team structure, personality test results). It continuously enhances coaching quality by incorporating chat history into the context for more personalized and adaptive interactions.
+
+<span style="color: red;">**THIS PROJECT HAS AN EXTERNAL STAKEHOLDER. PLEASE REACH OUT FOR CONTACT.**</span>
+
+### Skills and Roles Needed
+[Go back to TOC](#table-of-contents)
+
+- **Skills Needed**:
+  - Generative AI integration (e.g., ChatGPT, Gemini API usage).
+  - Front-end (Web Application) development (React.js).
+  - Backend development (Node.js).
+  - Database - Simple Data Storage (e.g., SQLite, Supabase, Firebase).
+  - Experience with AI-driven chat systems and RAG techniques is preferred.
+- **Role Type**:
+  - Development roles.
+
+### Deliverable
+[Go back to TOC](#table-of-contents)
+
+- **Web Application** providing a Generative AI-powered chat service.
+- **Web UI**:
+  - User sign-up/login.
+  - Pre-session information input for coaching.
+  - Chat service interface.
+- **Backend**: Integrate Generative AI using RAG (Retrieval-Augmented Generation) with optimized context and conversation history.
+- **Database**: Store user information, pre-session data, and chat history.
+- **Deployment**: Deploy the developed Web Application using Vercel or similar platforms.
+- **Final Delivery**: Source code of the application.
+
+### Deliverable Deadline Breakdown
+[Go back to TOC](#table-of-contents)
+
+- **February**:
+  - Understand product requirements, define UI flow, and implement the front-end (UI-focused).
+  - Implement basic Generative AI integration (to ensure functional connectivity).
+- **March**:
+  - Develop the back-end, database handling, and integrate it with the front-end.
+  - Implement Generative AI integration by improving context management.
+- **April**:
+  - Implement RAG (Retrieval-Augmented Generation) features to enhance coaching quality and conduct testing.
+  - Complete MVP functionality.
+- **May**:
+  - Handle deployment and finalize development.
+
+## Project 4: In House Custom App
+
+### Concept Overview
+[Go back to TOC](#table-of-contents)
+
+"In House" is transforming the home maintenance industry, and now we’re ready to take things to the next level with a custom app. The app will be the central hub for clients, technicians, and our internal team—making it easy to manage home maintenance, repairs, and communication in one place. For clients, it will be a tool to track their home’s needs, from to-do lists to project updates. For technicians, it will streamline job management. For our team, it will enhance efficiency with better communication and real-time tracking. Unlike many startups that are still in the conceptual stage, "In House" is a fully operational business with real clients and proven results. This app will help us deliver even more value and set a new standard in home care.
+
+<span style="color: red;">**THIS PROJECT HAS AN EXTERNAL STAKEHOLDER. PLEASE REACH OUT FOR CONTACT.**</span>
+
+### Skills and Roles Needed
+[Go back to TOC](#table-of-contents)
+
+- **Skills Needed**:
+  - Mobile app development (iOS and Android) using existing technologies.
+  - Back-end development for database integration and APIs.
+  - UI/UX design to create an intuitive, user-friendly experience.
+  - Data integration for order tracking, reporting, and client insights.
+  - Experience with project management tools and real-time communication systems.
+- **Role Type**:
+  - Developer roles focused on research, development, and execution.
+  - Paid internships to ensure commitment and quality throughout the project.
+
+### Deliverable
+[Go back to TOC](#table-of-contents)
+
+- **Client Features**:
+  - A dashboard for managing home tasks, account details, and project updates.
+  - Notifications for service schedules, updates, and completed tasks.
+  - Storage for home details like appliance warranties and service history.
+  - Real-time order tracking for transparency on repairs and projects.
+- **Technician Features**:
+  - A tool for viewing assigned jobs, task details, and progress tracking.
+  - Real-time communication with clients and the internal team.
+  - Easy updates on job status, from in-progress to completion.
+- **Internal Team Features**:
+  - A project management dashboard for assigning and tracking tasks.
+  - Insights into client accounts, service history, feedback, and reporting.
+  - A streamlined order tracking system for repairs, maintenance, and projects.
+
+### Deliverable Deadline Breakdown
+[Go back to TOC](#table-of-contents)
+
+- **Week 1-2: Planning and Discovery**:
+  - Define user personas and use cases.
+  - Finalize core feature set and overall app goals.
+- **Week 3-4: Wireframing and Design**:
+  - Create wireframes for Client, Technician, and Internal views.
+  - Get stakeholder approval on design and user flows.
+- **Week 5-6: Development Kickoff (Core Features)**:
+  - Begin building core functionalities (login, scheduling, basic dashboard).
+  - Develop the foundational architecture to support modular growth.
+- **Week 7: Initial Prototype Testing (Core Features)**:
+  - Deliver a functional app prototype with basic workflows for internal testing.
+  - Focus on usability for Client, Technician, and Internal modules.
+- **Week 8-10: Feature Expansion and Integration**:
+  - Add real-time updates and integrate additional features (notifications, tracking).
+  - Test for seamless operation across all user views.
+- **Week 11-12: Iteration and Polishing**:
+  - Conduct usability tests with select users.
+  - Refine user interface and resolve bugs identified during internal testing.
+- **Week 13: Beta Testing and Feedback Collection**:
+  - Launch a beta version for limited user groups.
+  - Gather detailed feedback and implement necessary adjustments.
+- **Week 14: Final Refinements and Pre-Launch**:
+  - Optimize app performance and finalize all features.
+  - Conduct a thorough review to ensure the app is launch-ready.
+  - Deploy the app and monitor for any post-launch adjustments.
