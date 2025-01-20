@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Capstone Projects](#capstone-projects)
+- [Capstone Projects](#capstone-projects)
    - [Project 1: Credibility Score for Articles/Sources/References](#project-1-credibility-score-for-articlessourcesreferences)
      - [Concept Overview](#concept-overview)
      - [Approach to Scoring Credibility](#approach-to-scoring-credibility)
@@ -27,6 +27,11 @@
      - [Skills and Roles Needed](#skills-and-roles-needed-1)
      - [Deliverable](#deliverable-3)
      - [Deliverable Deadline Breakdown](#deliverable-deadline-breakdown-3)
+   - [Project 5: WinAge Longevity Platform](#project-5-winage-longevity-platform)
+     - [Concept Overview](#concept-overview-4)
+     - [Skills and Roles Needed](#skills-and-roles-needed-2)
+     - [Deliverable](#deliverable-3)
+     - [Deliverable Deadline Breakdown](#deliverable-deadline-breakdown-4)
 
 # Capstone Projects
 
@@ -183,7 +188,7 @@ By implementing this simulation app, the project demonstrates how AI can streaml
 ### Concept Overview
 [Go back to TOC](#table-of-contents)
 
-Ystar* aims to build an AI-powered coaching platform tailored for first-time managers in culturally complex environments like Japan and South Korea. This project focuses on developing real-time chat coaching features using generative AI to deliver personalized and context-aware guidance. This platform provides a customized coaching service by utilizing user-specific information (e.g., company size, team structure, personality test results). It continuously enhances coaching quality by incorporating chat history into the context for more personalized and adaptive interactions.
+Ystar* aims to build an AI-powered coaching platform tailored for first-time managers in culturally complex environments like Japan and South Korea. This project focuses on developing real-time chat coaching features using generative AI to deliver personalized and context-aware guidance. This platform provides a customized coaching service by utilizing user-specific information (e.g., company size, team structure, personality test results). Also, it continuously enhances coaching quality by incorporating chat history into the context for more personalized and adaptive interactions. The developers will be responsible for building a chat-based web application, managing backend data, and implementing Generative AI integration to ensure intelligent coaching experiences. This aligns with Ystar*'s mission to provide culturally sensitive, scalable, and affordable coaching solutions.
 
 <span style="color: red;">**THIS PROJECT HAS AN EXTERNAL STAKEHOLDER. PLEASE REACH OUT FOR CONTACT.**</span>
 
@@ -194,23 +199,26 @@ Ystar* aims to build an AI-powered coaching platform tailored for first-time man
   - Generative AI integration (e.g., ChatGPT, Gemini API usage).
   - Front-end (Web Application) development (React.js).
   - Backend development (Node.js).
-  - Database - Simple Data Storage (e.g., SQLite, Supabase, Firebase).
+  - Database - Simple Data Storage (e.g., SQLite / Supabase / Firebase).
   - Experience with AI-driven chat systems and RAG techniques is preferred.
 - **Role Type**:
   - Development roles.
+  - **Internship type**: Unpaid, with an opportunity to gain real-world experience and references.
 
 ### Deliverable
 [Go back to TOC](#table-of-contents)
 
 - **Web Application** providing a Generative AI-powered chat service.
 - **Web UI**:
-  - User sign-up/login.
-  - Pre-session information input for coaching.
-  - Chat service interface.
-- **Backend**: Integrate Generative AI using RAG (Retrieval-Augmented Generation) with optimized context and conversation history.
-- **Database**: Store user information, pre-session data, and chat history.
-- **Deployment**: Deploy the developed Web Application using Vercel or similar platforms.
-- **Final Delivery**: Source code of the application.
+  - Includes user sign-up/login, pre-session information input for coaching, and chat service interface.
+- **Backend**:
+  - Integrate Generative AI using RAG (Retrieval-Augmented Generation) with optimized context and conversation history.
+- **Database**:
+  - Store user information, pre-session data, and chat history.
+- **Deployment**:
+  - Deploy the developed Web Application to the cloud using Vercel or similar platforms (so that functionality testing can be performed remotely).
+- **Final Delivery**:
+  - All source code along with a brief documentation.
 
 ### Deliverable Deadline Breakdown
 [Go back to TOC](#table-of-contents)
@@ -222,10 +230,10 @@ Ystar* aims to build an AI-powered coaching platform tailored for first-time man
   - Develop the back-end, database handling, and integrate it with the front-end.
   - Implement Generative AI integration by improving context management.
 - **April**:
-  - Implement RAG (Retrieval-Augmented Generation) features to enhance coaching quality and conduct testing.
-  - Complete MVP functionality.
+  - Deploy the developed output (source code) to the cloud and conduct testing.
+  - Enhance coaching quality through implementing RAG (Retrieval-Augmented Generation) features.
 - **May**:
-  - Handle deployment and finalize development.
+  - Deliver the finalized source code with a brief explanation document.
 
 ## Project 4: In House Custom App
 
@@ -294,3 +302,44 @@ Ystar* aims to build an AI-powered coaching platform tailored for first-time man
   - Optimize app performance and finalize all features.
   - Conduct a thorough review to ensure the app is launch-ready.
   - Deploy the app and monitor for any post-launch adjustments.
+
+## Project 5: WinAge Longevity Platform
+
+### Concept Overview
+[Go back to TOC](#table-of-contents)
+
+Project WinAge is a cutting-edge digital health platform designed to focus on longevity. The platform tests users' biomarkers and tracks wearable data throughout their daily lives, providing personalized insights and plans. Users subscribe to the service, which includes biological testing, wearable devices, and a mobile app that integrates smart tracking and personal planning features. This innovative solution aims to revolutionize how individuals monitor and optimize their health and longevity.
+
+### Skills and Roles Needed
+[Go back to TOC](#table-of-contents)
+
+- **Skills Needed**:
+  - **UI/UX Design**: Expertise in creating user-friendly, visually appealing interfaces.
+  - **Database Development**: Experience with MySQL or Oracle and cloud hosting platforms.
+  - **Mobile App Development**: Proficiency in Swift, React.js, HarmonyOS, or the latest mobile development tools.
+  - **Algorithm Customization**: Knowledge of R programming to adapt and integrate open-source biological age testing algorithms.
+- **Role Type**:
+  - All-in-one developer with full-stack expertise to collaborate with the CTO in building the MVP.
+  - Future opportunities for a full-time, paid position based on project success and investment outcomes.
+
+### Deliverables
+[Go back to TOC](#table-of-contents)
+
+- **Mobile Application**:
+  - Integration with in-house wearable devices and third-party APIs to display health data.
+  - Real-time updates for wearable data tracking.
+  - A functional MVP demonstrating:
+    - Biological testing outputs.
+    - Wearable data tracking.
+- **Mockup Link**: [Fitness Mobile App UI Design](https://www.figma.com/design/rsjvYrjsfteUowpopaFt8c/Fitness-Mobile-App-UI-by-tMinus1-Design-(Community)?node-id=1610-1823).
+
+### Deliverable Deadline Breakdown
+[Go back to TOC](#table-of-contents)
+
+- **By March 28th**: 
+  - Complete MVP development for the biological age testing output and wearable data display pages.
+  - Ensure real-time data updating functionality for wearable tracking.
+- **By April 30th**: 
+  - Evaluate project outcomes and initiate discussions for transitioning to a full-time paid position, contingent on investment and GNVC contest results.
+
+This ambitious project aims to position Project WinAge as a leader in the longevity and digital health space, delivering an MVP that sets the foundation for future growth and innovation.
