@@ -6,18 +6,18 @@
      - [Approach to Scoring Credibility](#approach-to-scoring-credibility)
      - [Deliverable](#deliverable)
      - [Deliverable Deadline Breakdown](#deliverable-deadline-breakdown)
-       - [February 4th: Draft of the Python Function](#february-4th-draft-of-the-python-function)
-       - [February 18th: Detailed Technique Report](#february-18th-detailed-technique-report)
-       - [February 25th: Implementation into Live Applications](#february-25th-implementation-into-live-applications)
+       - [Draft of the Python Function](#draft-of-the-python-function)
+       - [Detailed Technique Report](#detailed-technique-report)
+       - [Implementation into Live Applications](#implementation-into-live-applications)
    - [Project 2: TinyTroupe for Simulation](#project-2-tinytroupe-for-simulation)
      - [Concept Overview](#concept-overview-1)
      - [Approach to Simulating Feedback](#approach-to-simulating-feedback)
      - [Deliverable](#deliverable-1)
      - [Deliverable Deadline Breakdown](#deliverable-deadline-breakdown-1)
-       - [March 4th: Draft of the App](#march-4th-draft-of-the-app)
-       - [March 18th: Beta Version and Technical Report](#march-18th-beta-version-and-technical-report)
-       - [March 25th: Final Delivery of Container-Ready App](#march-25th-final-delivery-of-container-ready-app)
-   - [Project 3: Ystar* Coaching Platform](#project-3-ystar-coaching-platform)
+       - [Draft of the App](#draft-of-the-app)
+       - [Beta Version and Technical Report](#beta-version-and-technical-report)
+       - [Final Delivery of Container-Ready App](#final-delivery-of-container-ready-app)
+   - [Project 3: Ystar Coaching Platform](#project-3-ystar-coaching-platform)
      - [Concept Overview](#concept-overview-2)
      - [Skills and Roles Needed](#skills-and-roles-needed)
      - [Deliverable](#deliverable-2)
@@ -81,7 +81,7 @@ The deliverable includes the implementation of a feature within the chatbot to d
 ### Deliverable Deadline Breakdown
 [Go back to TOC](#table-of-contents)
 
-#### February 4th: Draft of the Python Function
+#### Draft of the Python Function
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Develop a preliminary version of the Python function that evaluates the URL of each reference.
@@ -95,7 +95,7 @@ The deliverable includes the implementation of a feature within the chatbot to d
     ```
   - Initial testing to validate input/output handling.
 
-#### February 18th: Detailed Technique Report
+#### Detailed Technique Report
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Provide an in-depth analysis and report on the algorithmic approach and scientific research supporting the credibility scoring.
@@ -106,7 +106,7 @@ The deliverable includes the implementation of a feature within the chatbot to d
     - Justification of chosen methodologies, including both ML-based and rule-based approaches if applicable.
   - Documentation to guide future iterations and refinements.
 
-#### February 25th: Implementation into Live Applications
+#### Implementation into Live Applications
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Integrate the finalized Python function into live applications and ensure seamless operation with the chatbot.
@@ -114,8 +114,6 @@ The deliverable includes the implementation of a feature within the chatbot to d
   - Full implementation of the credibility scoring feature within the chatbot platform.
   - Testing and validation to ensure correct functionality and user interaction.
   - Integration support using a provided application template to streamline the process.
-
-
 
 ## Project 2: TinyTroupe for Simulation
 
@@ -150,7 +148,7 @@ The app will include:
 ### Deliverable Deadline Breakdown
 [Go back to TOC](#table-of-contents)
 
-#### March 4th: Draft of the App
+#### Draft of the App
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Develop an initial draft of the app showcasing the basic structure and persona-based feedback generation.
@@ -159,7 +157,7 @@ The app will include:
   - Initial persona simulation results.
   - Feedback from the instructor for refinement.
 
-#### March 18th: Beta Version and Technical Report
+#### Beta Version and Technical Report
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Complete the bulk of the app development and submit a technical report.
@@ -171,7 +169,7 @@ The app will include:
     - Use cases and examples.
   - Feedback from a second round of instructor review.
 
-#### March 25th: Final Delivery of Container-Ready App
+#### Final Delivery of Container-Ready App
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Deliver a fully functional app ready for deployment.
@@ -183,7 +181,7 @@ The app will include:
 
 By implementing this simulation app, the project demonstrates how AI can streamline feature feedback collection, reducing costs and accelerating the go-to-market strategy. The result is a scalable, efficient solution for user feedback analysis.
 
-## Project 3: Ystar* Coaching Platform
+## Project 3: Ystar Coaching Platform
 
 ### Concept Overview
 [Go back to TOC](#table-of-contents)
@@ -247,6 +245,8 @@ Ystar* aims to build an AI-powered coaching platform tailored for first-time man
 ### Skills and Roles Needed
 [Go back to TOC](#table-of-contents)
 
+Need developers to take inputs in terms of user features (homeowners, technicians, and internal) to build an app that functions effectively.
+
 - **Skills Needed**:
   - Mobile app development (iOS and Android) using existing technologies.
   - Back-end development for database integration and APIs.
@@ -259,6 +259,8 @@ Ystar* aims to build an AI-powered coaching platform tailored for first-time man
 
 ### Deliverable
 [Go back to TOC](#table-of-contents)
+
+Build a prototype app that has basic and core features for users: homeowner clients, technicians, and internal
 
 - **Client Features**:
   - A dashboard for managing home tasks, account details, and project updates.
@@ -277,28 +279,22 @@ Ystar* aims to build an AI-powered coaching platform tailored for first-time man
 ### Deliverable Deadline Breakdown
 [Go back to TOC](#table-of-contents)
 
-- **Week 1-2: Planning and Discovery**:
-  - Define user personas and use cases.
-  - Finalize core feature set and overall app goals.
-- **Week 3-4: Wireframing and Design**:
-  - Create wireframes for Client, Technician, and Internal views.
-  - Get stakeholder approval on design and user flows.
-- **Week 5-6: Development Kickoff (Core Features)**:
-  - Begin building core functionalities (login, scheduling, basic dashboard).
-  - Develop the foundational architecture to support modular growth.
-- **Week 7: Initial Prototype Testing (Core Features)**:
+- **Week 1-5: Planning, Discovery, Design, Development**:
+  - Define user profile, app goals, and core features.
+  - Create wireframes for all users.
+- **Week 6-8: Initial Prototype App**:
+  - Deliver functional prototype app on workflows.
+  - Focus on usability for internal, homeowners, and technicians.
+- **Week 9-12: Expansion, QA, Beta Testing**:
   - Deliver a functional app prototype with basic workflows for internal testing.
   - Focus on usability for Client, Technician, and Internal modules.
-- **Week 8-10: Feature Expansion and Integration**:
+  - Launch a beta version for limited user groups.
   - Add real-time updates and integrate additional features (notifications, tracking).
   - Test for seamless operation across all user views.
-- **Week 11-12: Iteration and Polishing**:
   - Conduct usability tests with select users.
   - Refine user interface and resolve bugs identified during internal testing.
-- **Week 13: Beta Testing and Feedback Collection**:
-  - Launch a beta version for limited user groups.
+- **Week 12 and onward: Optimization**:
   - Gather detailed feedback and implement necessary adjustments.
-- **Week 14: Final Refinements and Pre-Launch**:
   - Optimize app performance and finalize all features.
   - Conduct a thorough review to ensure the app is launch-ready.
   - Deploy the app and monitor for any post-launch adjustments.
@@ -309,6 +305,8 @@ Ystar* aims to build an AI-powered coaching platform tailored for first-time man
 [Go back to TOC](#table-of-contents)
 
 Project WinAge is a cutting-edge digital health platform designed to focus on longevity. The platform tests users' biomarkers and tracks wearable data throughout their daily lives, providing personalized insights and plans. Users subscribe to the service, which includes biological testing, wearable devices, and a mobile app that integrates smart tracking and personal planning features. This innovative solution aims to revolutionize how individuals monitor and optimize their health and longevity.
+
+<span style="color: red;">**THIS PROJECT HAS AN EXTERNAL STAKEHOLDER. PLEASE REACH OUT FOR CONTACT.**</span>
 
 ### Skills and Roles Needed
 [Go back to TOC](#table-of-contents)
