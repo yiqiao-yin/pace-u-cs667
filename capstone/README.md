@@ -20,7 +20,16 @@
 
 # Capstone Projects
 
-Please see the following projects.
+Please see the following projects. You must attempt the following submissions. Please read it carefully:
+
+- Project 1 Submissions:
+  - Feb. 8th: [Draft of the Python Function](#draft-of-the-python-function)
+  - Feb. 22nd: [Detailed Technique Report](#detailed-technique-report)
+  - Mar. 31st: [Implementation into Live Applications](#implementation-into-live-applications)
+- Project 2 Submissions:
+  - Mar. 15th: [Draft of the App](#draft-of-the-app)
+  - Mar. 29th: [Beta Version and Technical Report](#beta-version-and-technical-report)
+  - Apr. 5th: [Final Delivery of Container-Ready App](#final-delivery-of-container-ready-app)
 
 ## Project 1: Credibility Score for Articles/Sources/References
 
