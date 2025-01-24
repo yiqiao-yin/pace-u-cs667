@@ -13,9 +13,9 @@ Welcome to CS667 - Practical Data Science! This project-based course is designed
 
 ## Projects
 
-We are excited to dive into Project 1 and Project 2 together during our class discussions. These projects are essential for passing the class and will help you understand the fundamentals.
+We are excited to dive into Project 1 and Project 2 together during our class discussions. These projects are essential for passing the class and will help you understand the fundamentals. Required projects can be seen [here](./capstone/README.md). Each project has 3 deadlines. You must submit at least 2 out of 3 deadlines.
 
-However, upon approval, you may choose to work on one of the Projects 3, 4, or 5 with external stakeholders instead of Project 1 and Project 2. These projects come with the unique opportunity to collaborate with industry professionals and could potentially lead to full-time job offers. We will provide you with various tools to help you assess the complexity and industry relevance of these technical projects.
+Additionally, you must choose and attempt at least 1 projects with external stakeholders on top of Project 1 and Project 2. Please see this [list](./capstone/extra_proj.md) for options. These projects come with the unique opportunity to collaborate with industry professionals and could potentially lead to full-time job offers. We will provide you with various tools to help you assess the complexity and industry relevance of these technical projects.
 
 Take advantage of these opportunities to connect with real-world experiences and boost your career prospects!
 
@@ -27,11 +27,12 @@ Please see the detailed projects on this [page](./capstone/README.md)
 
 This course is graded on a Pass/Fail basis. To pass, you must successfully complete a complete data science, machine learning, or AI project, demonstrating your understanding of the data science lifecycle and your ability to produce functional, real-world-ready solutions.
 
-We will be using [this link](https://airtable.com/embed/appBjNPgdot15ZqO7/pagKL7hfbTouEflS9/form) for all of the submissions.
+### Submissions
+We will be using [this link](https://airtable.com/embed/appBjNPgdot15ZqO7/pagKL7hfbTouEflS9/form) for all of the submissions. All submissions will be using the same link listed in this section. Please take this part seriously as you may fail the class if you do not have enough the submissions.
 
-You will pass this class if both of the following criteria have been met:
-- Fill up the submission form after every single class as participation. You can be excused for 2 classes for medical reasons.
-- Upon approval of the completion of the project. For details of capstone project, please see [here](./capstone/README.md)
+You will **pass** this 3-credit class if both of the following criteria have been met:
+- Fill up the submission form after every single class as participation. You can be excused for 2 classes for medical reasons. During the semester, we will be covering project 1 and project 2, which are discussed [here](./capstone/README.md). Project 1 and Project 2 each have 3 submissions. You must fulfill at least 2/3 of these submissions.
+- Additionally, you are also required to work at least one of the following projects. Please see this [list](./capstone/extra_proj.md). These ideas are based on realworld applications in a variety of industry and it is highly recommended to take these projects seriously!
 
 [Go back to TOC](#table-of-contents)
 
