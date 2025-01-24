@@ -30,6 +30,12 @@ Please see the following projects. You must attempt the following submissions. P
   - Mar. 15th: [Draft of the App](#draft-of-the-app)
   - Mar. 29th: [Beta Version and Technical Report](#beta-version-and-technical-report)
   - Apr. 5th: [Final Delivery of Container-Ready App](#final-delivery-of-container-ready-app)
+- Project 3 Submission:
+  - Apr. 30th: You must make one submission to deliver what you worked on for a project of your choice. You must choose at least one project [here](./extra_proj.md)
+
+You can pass the class with successful submissions of the above deliverables. All deliverables will be submitted using [this link](https://airtable.com/appBjNPgdot15ZqO7/pagKL7hfbTouEflS9/form).
+
+Please take these submissions seriously.
 
 ## Project 1: Credibility Score for Articles/Sources/References
 
