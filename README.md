@@ -15,7 +15,7 @@ Welcome to CS667 - Practical Data Science! This project-based course is designed
 
 We are excited to dive into Project 1 and Project 2 together during our class discussions. These projects are essential for passing the class and will help you understand the fundamentals. Required projects can be seen [here](./capstone/README.md). Each project has 3 deadlines. You must submit at least 2 out of 3 deadlines.
 
-Additionally, you must choose and attempt at least 1 projects with external stakeholders on top of Project 1 and Project 2. Please see this [list](./capstone/extra_proj.md) for options. These projects come with the unique opportunity to collaborate with industry professionals and could potentially lead to full-time job offers. We will provide you with various tools to help you assess the complexity and industry relevance of these technical projects.
+Additionally, you must choose and attempt at least 1 projects with external stakeholders on top of Project 1 and Project 2. Since submissions are already made, the list will be hidden. But feel free to reach out if you want to see the detailed list. These projects come with the unique opportunity to collaborate with industry professionals and could potentially lead to full-time job offers. We will provide you with various tools to help you assess the complexity and industry relevance of these technical projects.
 
 Take advantage of these opportunities to connect with real-world experiences and boost your career prospects!
 
