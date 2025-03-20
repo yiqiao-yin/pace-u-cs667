@@ -25,13 +25,13 @@ Please see the following projects. You must attempt the following submissions. P
 - Project 1 Submissions:
   - Feb. 8th: [Draft of the Python Function](#draft-of-the-python-function)
   - Feb. 22nd: [Detailed Technique Report](#detailed-technique-report)
-  - Mar. 31st: [Implementation into Live Applications](#implementation-into-live-applications)
+  - Mar. 31st: [Implementation into Live Applications](#implementation-into-live-applications) <= this is omitted
 - Project 2 Submissions:
-  - Mar. 15th: [Draft of the App](#draft-of-the-app)
-  - Mar. 29th: [Beta Version and Technical Report](#beta-version-and-technical-report)
-  - Apr. 5th: [Final Delivery of Container-Ready App](#final-delivery-of-container-ready-app)
+  - Mar. 29th: [Draft of the App](#understanding-of-agentic-framework)
+  - Apr. 5th: [Beta Version and Technical Report](#draft-app-and-technical-report)
+  - Apr. 12th: [Final Delivery of Container-Ready App](#final-delivery-of-container-ready-app)
 - Project 3 Submission:
-  - Apr. 30th: You must make one submission to deliver what you worked on for a project of your choice. You must choose at least one project [here](./extra_proj.md)
+  - Apr. 30th: You must make one submission to deliver what you worked on for a project of your choice. You must choose at least one project [here](./extra_proj.md) <= this is optional
 
 You can pass the class with successful submissions of the above deliverables. All deliverables will be submitted using [this link](https://airtable.com/appBjNPgdot15ZqO7/pagKL7hfbTouEflS9/form).
 
@@ -148,16 +148,14 @@ The app will include:
 ### Deliverable Deadline Breakdown
 [Go back to TOC](#table-of-contents)
 
-#### Draft of the App
+#### Understanding of Agentic Framework
 [Go back to TOC](#table-of-contents)
 
-- **Objective**: Develop an initial draft of the app showcasing the basic structure and persona-based feedback generation.
+- **Objective**: Develop an understanding of the app showcasing the basic structure and persona-based feedback generation.
 - **Deliverables**:
-  - A minimal viable product (MVP) with a basic UI to input features and personas.
-  - Initial persona simulation results.
-  - Feedback from the instructor for refinement.
+  - A markdown file understanding key terminilogies listed in the tutorial.
 
-#### Beta Version and Technical Report
+#### Draft App and Technical Report
 [Go back to TOC](#table-of-contents)
 
 - **Objective**: Complete the bulk of the app development and submit a technical report.
