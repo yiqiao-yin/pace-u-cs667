@@ -28,10 +28,10 @@ Please see the following projects. You must attempt the following submissions. P
   - Mar. 31st: [Implementation into Live Applications](#implementation-into-live-applications) <= this is omitted
 - Project 2 Submissions:
   - Mar. 29th: [Draft of the App](#understanding-of-agentic-framework)
-  - Apr. 5th: [Beta Version and Technical Report](#draft-app-and-technical-report)
-  - Apr. 12th: [Final Delivery of Container-Ready App](#final-delivery-of-container-ready-app)
+  - Apr. 5th (extended): [Beta Version and Technical Report](#draft-app-and-technical-report)
+  - Apr. 12th (extended): [Final Delivery of Container-Ready App](#final-delivery-of-container-ready-app)
 - Project 3 Submission:
-  - Apr. 30th: You must make one submission to deliver what you worked on for a project of your choice. You must choose at least one project [here](./extra_proj.md) <= this is optional
+  - TBD: You must make one submission to deliver what you worked on for a project of your choice. You must choose at least one project [here](./extra_proj.md) <= this is optional
 
 You can pass the class with successful submissions of the above deliverables. All deliverables will be submitted using [this link](https://airtable.com/appBjNPgdot15ZqO7/pagKL7hfbTouEflS9/form).
 
