@@ -3,40 +3,46 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-- [Grading](#grading)
+- [AI-First and GenAI Projects](#ai-first-and-genai-projects)
+- [Guidance](#guidance)
 
 ## Introduction
 
-Welcome to CS667 - Practical Data Science! This project-based course is designed to guide you through the full lifecycle of a data science project, from ideation to production. You will learn how to formulate a problem, collect and preprocess data, build and validate models, and deploy your solutions into real-world environments. By the end of the course, you will have practical experience in handling data science challenges and delivering deployable solutions.
+Welcome to CS667 - Practical Data Science! This project-based course is designed to guide you through the full lifecycle of a data science project, from ideation to implementation. You will explore how to formulate impactful questions, acquire and prepare data, build and validate models, and develop deployable solutions. Our aim is to foster the mindset and technical fluency required to thrive in today’s data-driven world.
 
 [Go back to TOC](#table-of-contents)
 
 ## Projects
 
-We are excited to dive into Project 1 and Project 2 together during our class discussions. These projects are essential for passing the class and will help you understand the fundamentals. Required projects can be seen [here](./capstone/README.md). Each project has 3 deadlines. You must submit at least 2 out of 3 deadlines.
+You will engage in multiple project experiences throughout this course. These include core class projects and optional opportunities to collaborate with external partners on real-world applications.
 
-Additionally, you must choose and attempt at least 1 projects with external stakeholders on top of Project 1 and Project 2. Since submissions are already made, the list will be hidden. But feel free to reach out if you want to see the detailed list. These projects come with the unique opportunity to collaborate with industry professionals and could potentially lead to full-time job offers. We will provide you with various tools to help you assess the complexity and industry relevance of these technical projects.
+The primary goal of these projects is to immerse you in the end-to-end workflow of practical data science. You will learn to scope problems, select appropriate tools, build reliable pipelines, and create solutions that can operate in real environments. Projects will be discussed during class and can be adjusted based on your interests and backgrounds.
 
-Take advantage of these opportunities to connect with real-world experiences and boost your career prospects!
-
-Please see the detailed projects on this [page](./capstone/README.md)
+These opportunities are valuable for developing portfolios that reflect your capability to solve industry-relevant problems. While collaboration and guidance are available, a strong sense of ownership and initiative is encouraged.
 
 [Go back to TOC](#table-of-contents)
 
-## Grading
+## AI-First and GenAI Projects
 
-This course is graded on a Pass/Fail basis. To pass, you must successfully complete a complete data science, machine learning, or AI project, demonstrating your understanding of the data science lifecycle and your ability to produce functional, real-world-ready solutions.
+In today’s rapidly evolving technological landscape, AI-first and Generative AI-first (GenAI-first) design approaches are becoming increasingly vital. An AI-first approach prioritizes artificial intelligence from the outset—integrating intelligent decision-making and automation deeply into the solution architecture. GenAI-first expands this to include models that can generate text, code, images, and more, transforming how systems are designed and how users interact with them.
 
-### Submissions
-We will be using [this link](https://airtable.com/embed/appBjNPgdot15ZqO7/pagKL7hfbTouEflS9/form) for all of the submissions. All submissions will be using the same link listed in this section. Please take this part seriously as you may fail the class if you do not have enough the submissions.
+This course encourages the development of AI-first and GenAI-first projects. Whether you're creating personalized learning platforms, intelligent document processors, or virtual assistants, consider how machine learning and generative models can be embedded natively into the solution. Projects that demonstrate creativity, responsible innovation, and a focus on user-centric AI design will be especially encouraged.
 
-You will **pass** this 3-credit class if both of the following criteria have been met:
-- Fill up the submission form after every single class as participation. You can be excused for 2 classes for medical reasons. During the semester, we will be covering project 1 and project 2, which are discussed [here](./capstone/README.md). Project 1 and Project 2 each have 3 submissions. You must fulfill at least 2/3 of these submissions.
-- Additionally, you are also required to work at least one of the following projects. Please see this [list](./capstone/extra_proj.md). These ideas are based on realworld applications in a variety of industry and it is highly recommended to take these projects seriously!
+[Go back to TOC](#table-of-contents)
+
+## Guidance
+
+Throughout the course, you will be exposed to both technical and strategic elements of practical data science. Below are some general recommendations for a successful journey:
+
+- Approach each project with an engineering mindset: plan your architecture, version your data, and monitor your outputs.
+- Prioritize clarity in communication—your deliverables should tell a story and be accessible to a broad audience.
+- Embrace iteration. The path from data to insight to impact often requires trial and error.
+- Make ethical considerations part of your workflow, especially when handling sensitive data or building models with real-world influence.
+- When possible, aim to build solutions that are **deployable**, **scalable**, and **intelligent by design**.
+- Stay updated with recent developments in AI and machine learning, especially in areas such as large language models, multimodal learning, and responsible AI.
 
 [Go back to TOC](#table-of-contents)
 
 ---
 
-Start your data science journey with hands-on projects that will prepare you for real-world challenges. Let’s make it a great semester!
-
+Start your data science journey with hands-on projects and a future-forward perspective. Let’s build solutions that are innovative, intelligent, and impactful!
