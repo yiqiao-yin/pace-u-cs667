@@ -47,7 +47,7 @@ To submit your project, follow these steps:
    - How to run/reproduce your work
    - Results and conclusions
 
-3. **Submit via wyn360search.com**:
+3. **How to submit**:
    - Submit your GitHub repository URL
    - Include a video walkthrough (minimum 2 minutes) of your project in your GitHub repository
    - Submit a PDF document (either a poster or a short paper describing your project) 
